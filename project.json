@@ -3,6 +3,7 @@
   "description": "Blank Library",
   "main": "NewActivity.xaml",
   "dependencies": {
+    "ReporterForUiPath.Activities": "2.0.0",
     "UiPath.Excel.Activities": "2.12.3",
     "UiPath.Mail.Activities": "1.15.1",
     "UiPath.System.Activities": "22.4.0",
